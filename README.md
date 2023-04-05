@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:640/1*NbBBGGko8D7Vtwws4zOOIA.gif" align="center" height="400" width="790" />
+<img src="https://github.com/INN0C0DE/INN0C0DE/blob/main/sleepingcat.gif" align="center" height="450" width="790" />
 </div>  
   
 
