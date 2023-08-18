@@ -12,7 +12,7 @@
 - 📚 3rd year college student at Colegio de Montalban.  
   
 
-- 🌱 currently tired of styding/ coding. 😪  
+- 🌱 currently tired of studying/ coding. 😪  
   
 
 <br/>  
