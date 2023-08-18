@@ -90,9 +90,9 @@
 
 <br/>  
 
-##
+<!--##
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=227ma3e32m3emd6mb564j76sq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div><br>
-
+-->
 <!--##
 ![Snake animation](https://github.com/INN0C0DE/INN0C0DE/blob/output/github-contribution-grid-snake.svg)-->
