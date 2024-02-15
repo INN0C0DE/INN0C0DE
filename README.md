@@ -9,7 +9,7 @@
 - 💻 I'm currently taking BSIT (Bachelor of Science in Information Technology).  
   
 
-- 📚 3rd year college student at Colegio de Montalban.  
+- 📚 4th year college student at Colegio de Montalban.  
   
 
 - 🌱 currently tired of studying/ coding. 😪  
