@@ -6,10 +6,10 @@
 ## About Me   
   
 
-- 💻 I'm currently taking BSIT (Bachelor of Science in Information Technology).  
+- 💻 BS Information Technology Degree Holder.  
   
 
-- 📚 4th year college student at Colegio de Montalban.  
+- 📚 Colegio de Montalban.  
   
 
 - 🌱 currently tired of studying/ coding. 😪  
