@@ -5,15 +5,15 @@
 
 ## About Me   
   
-
-- 💻 BS Information Technology Degree Holder.  
+<!--
+- 💻 BS Information Technology.  
   
 
 - 📚 Colegio de Montalban.  
   
 
 - 🌱 currently tired of studying/ coding. 😪  
-  
+  -->
 
 <br/>  
 
