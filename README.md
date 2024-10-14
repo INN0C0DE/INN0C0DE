@@ -14,7 +14,7 @@
 
 - 🌱 currently tired of studying/ coding. 😪  
   -->
-
+Recent IT graduate with strong programming and problem-solving skills, eager to apply my knowledge in a dynamic environment. I am open to new opportunities and dedicated to continuous learning through training and collaboration. My goal is to contribute effectively to the team while supporting the company's objectives.
 <br/>  
 
 
